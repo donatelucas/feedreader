@@ -4,7 +4,7 @@
 3. Allow users to log-in and save information
 4. Ability to collect and display the newsfeeds from real sources
 5. Display the selected list of user feeds according with the user preferences
-6. Display sources by showing a preview of the source (title, image, 250 characters of description)
+6. Display sources by showing a preview of the source
 7. Sort feed by most recently updated source by default
 8. Allow users to choose how to filter their feed, but always use linear dates for it
 9. Prior Inserted Search™
