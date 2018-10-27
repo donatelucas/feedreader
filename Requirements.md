@@ -8,5 +8,5 @@
 7. Sort feed by most recently updated source by default
 8. Allow users to choose how to filter their feed, but always use linear dates for it
 9. Prior Inserted Search™
-    - Instead of giving the trouble to users on searching things by themselves, make the selection of their favorite topics, and return to them - in order of importance, and "freshness" - a list of those topics. What it intends to solve the most is the non-linearization of feeds
+    - Instead of giving the trouble to users on searching things by themselves, make the selection of their favorite topics, and return to them - in order of importance, and "freshness" - a list of those topics. What it intends to solve the most is the non-linearization of feeds while also giving the users a better return of content
     
