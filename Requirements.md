@@ -11,3 +11,4 @@
     - Instead of giving the trouble to users on searching things by themselves, make the selection of their favorite topics, and return to them - in order of importance, and "freshness" - a list of those topics. What it intends to solve the most is the non-linearization of feeds while also giving the users a better return of content
 10. Favorites
 11. Bookmarks
+12. Search
