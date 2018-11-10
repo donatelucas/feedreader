@@ -22,5 +22,5 @@
     - A bookmark is a link that is saved in a different list with the purpose of being read later. User should be able to save a bookmark by tapping and holding for 2 seconds on top of the news that they want to bookmark
 12. Search
     - Does a search on all of the lists available (all news, bookmarks, favorites). Ideally, log(n) time should be used (SkipList, or Red-Black Tree)
-13. Open Links on Default Browser:
+13. Open Links on Default Browser:  
     - When user taps the title on the news, the app should find the default browser on the phone, and open that link on it.
