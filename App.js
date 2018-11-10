@@ -10,13 +10,11 @@ import React, {Component} from 'react';
 import { Platform, Dimensions, StyleSheet, Image, Text, View } from 'react-native';
 
 export default class App extends Component<Props> {
-  render() {
-    return (
-        <View style = { styles.container }>
-            <View style = { styles.rectangle }></View>
-        </View>
-    );
-  }
+    render() {
+        return (
+            <Home/>
+        );
+    }
 }
 
 let WIDTH = Dimensions.get('window').width;
