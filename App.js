@@ -7,27 +7,27 @@
  */
 
 import React, {Component} from 'react';
-import {Platform, StyleSheet, Image, Text, View} from 'react-native';
+import { Platform, Dimensions, StyleSheet, Image, Text, View } from 'react-native';
 
 export default class App extends Component<Props> {
   render() {
     return (
         <View style = { styles.container }>
-            <View style = { styles.navBar }>
-                <Image source={require('./assets/bookmark.png')} />
-            </View>
+            <View style = { styles.rectangle }></View>
         </View>
     );
   }
 }
 
+let WIDTH = Dimensions.get('window').width;
+
 const styles = StyleSheet.create({
     container: {
-        flex: 1
+        flex: 1,
     },
-    navBar: {
-        height: 55,
-        backgroundColor: 'white',
-        elevation: 3
+    rectangle: {
+        width: WIDTH,
+        height: 200,
+        backgroundColor: 111,
     },
 });
