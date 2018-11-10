@@ -7,12 +7,13 @@
  */
 
 import React, {Component} from 'react';
-import { Platform, Dimensions, StyleSheet, Image, Text, View } from 'react-native';
+import { AppRegistry, Dimensions, StyleSheet } from 'react-native'; 
+import Home from './components/Home';
 
-export default class App extends Component<Props> {
+export default class App extends Component {
     render() {
         return (
-            <Home/>
+            <Home />
         );
     }
 }
@@ -29,3 +30,5 @@ const styles = StyleSheet.create({
         backgroundColor: 111,
     },
 });
+
+AppRegistry.registerComponent('feedreader', () => feedreader);
