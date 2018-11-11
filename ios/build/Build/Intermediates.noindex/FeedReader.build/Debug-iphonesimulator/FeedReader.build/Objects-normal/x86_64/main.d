@@ -1,3 +1,2 @@
-dependencies: \
-  /Users/Lucas/Dropbox/CS-LUC/feedreader/ios/FeedReader/main.m \
-  /Users/Lucas/Dropbox/CS-LUC/feedreader/ios/FeedReader/AppDelegate.h
+dependencies: /Users/Lucas/feedreader/ios/FeedReader/main.m \
+  /Users/Lucas/feedreader/ios/FeedReader/AppDelegate.h

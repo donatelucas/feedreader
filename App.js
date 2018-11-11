@@ -7,7 +7,7 @@
  */
 
 import React, {Component} from 'react';
-import { AppRegistry, Dimensions, StyleSheet } from 'react-native'; 
+import { AppRegistry, StyleSheet } from 'react-native';
 import Home from './components/Home';
 
 export default class App extends Component {
@@ -18,16 +18,9 @@ export default class App extends Component {
     }
 }
 
-let WIDTH = Dimensions.get('window').width;
-
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-    },
-    rectangle: {
-        width: WIDTH,
-        height: 200,
-        backgroundColor: 111,
     },
 });
 
