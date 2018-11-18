@@ -24,4 +24,4 @@ const styles = StyleSheet.create({
     },
 });
 
-AppRegistry.registerComponent('feedreader', () => feedreader);
+AppRegistry.registerComponent('FeedReader', () => App);
