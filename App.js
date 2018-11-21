@@ -1,14 +1,16 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
+/*  Design colors:
  *
- * @format
- * @flow
+ *  Baby Powder - #FEFCFB
+ *  CG Blue - #1282A2
+ *  Dark Cerulean - #034078
+ *  Oxford Blue - #001F54
+ *  Rich Black - #0A1128
+ *
  */
 
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import { AppRegistry, StyleSheet, View } from 'react-native';
-import Container from './components/Container';
+import Card from './components/Card';
 import Header from './components/Header';
 
 export default class App extends Component {
@@ -16,7 +18,7 @@ export default class App extends Component {
         return (
             <View style = { styles.container }>
                 <Header />
-                <Container />
+                <Card />
             </View>
         );
     }
@@ -25,7 +27,7 @@ export default class App extends Component {
 const styles = StyleSheet.create ({
     container: {
         flex: 1,
-        backgroundColor: 'powderblue'
+        backgroundColor: 'white'
     }
 })
 

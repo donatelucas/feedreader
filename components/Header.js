@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { AppRegistry, StyleSheet, Text, Dimensions, View } from 'react-native';
+import { AppRegistry, Dimensions, StyleSheet, Text, View } from 'react-native';
 
 let WIDTH = Dimensions.get('window');
 
@@ -18,15 +18,15 @@ class Header extends Component {
 
 const styles = StyleSheet.create ({
     fixer: {
-        backgroundColor: "white",
+        backgroundColor: 'white',
         padding: 20
     },
     header: {
-        backgroundColor: 'gray',
+        backgroundColor: '#0A1128',
         padding: 10
     },
     text: {
-        color: 'black',
+        color: '#FEFCFB',
         fontSize: 20,
         textAlign: "center"
     },
