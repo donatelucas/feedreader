@@ -7,21 +7,26 @@
  */
 
 import React, {Component} from 'react';
-import { AppRegistry, StyleSheet } from 'react-native';
-import Home from './components/Home';
+import { AppRegistry, StyleSheet, View } from 'react-native';
+import Container from './components/Container';
+import Header from './components/Header';
 
 export default class App extends Component {
     render() {
         return (
-            <Home />
+            <View style = { styles.container }>
+                <Header />
+                <Container />
+            </View>
         );
     }
 }
 
-const styles = StyleSheet.create({
+const styles = StyleSheet.create ({
     container: {
         flex: 1,
-    },
-});
+        backgroundColor: 'powderblue'
+    }
+})
 
-AppRegistry.registerComponent('feedreader', () => feedreader);
+AppRegistry.registerComponent('FeedReader', () => FeedReader);

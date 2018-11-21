@@ -5,6 +5,65 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>4169B5A4-13B9-44D5-8348-9638E24C3581</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4169B5A4-13B9-44D5-8348-9638E24C3581.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FeedReader project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FeedReader</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FeedReader with scheme FeedReader and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564449610.93856895</real>
+			<key>timeStoppedRecording</key>
+			<real>564449615.95213199</real>
+			<key>title</key>
+			<string>Building project FeedReader with scheme FeedReader and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4169B5A4-13B9-44D5-8348-9638E24C3581</string>
+		</dict>
+		<key>8E937601-E2BF-4558-90DE-81803A069AF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E937601-E2BF-4558-90DE-81803A069AF9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FeedReader project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FeedReader</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FeedReader with scheme FeedReader and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564335488.83487797</real>
+			<key>timeStoppedRecording</key>
+			<real>564335493.58693099</real>
+			<key>title</key>
+			<string>Building project FeedReader with scheme FeedReader and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8E937601-E2BF-4558-90DE-81803A069AF9</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
