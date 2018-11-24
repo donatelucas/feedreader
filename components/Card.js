@@ -25,7 +25,7 @@ class Card extends Component {
                         <Text style = { styles.favorite }> Favorite </Text>
                     </View>
                     <View style = { styles.bookmark }>
-                        <Text style = { styles.bookmark }> Bookmark </Text>
+                        <Text style = { styles.bookmarks }> Bookmarks </Text>
                     </View>
                     <View style = { styles.share }>
                         <Text style = { styles.share }> Share </Text>
@@ -82,7 +82,7 @@ const styles = StyleSheet.create ({
         justifyContent: "center",
         alignItems: "center"
     },
-    bookmark: {
+    bookmarks: {
         flex: 1,
         color: "#FEFCFB",
         justifyContent: "center",
