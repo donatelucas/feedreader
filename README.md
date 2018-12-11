@@ -42,9 +42,13 @@ Once you have React Native and Android Studio installed, you can refer to the Re
 ## Authors
 
 Lucas Perez
+
 Janeen Soria
+
 Tommy Nguyen
+
 Tyler Nguyen
+
 Nathan Bullock
 
 ## License
