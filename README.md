@@ -10,6 +10,10 @@ In the actual market, Facebook, YouTube, Instagram, alongside feed readers, have
 
 We think that is the wrong way to go about it. You don't build roads with secondary intentions. You build roads to make transportation better, faster, and safer. Making the user find exactly what they want in the best possible time is what makes good engineering, and it also make users happy.
 
+Some applications are non-linear, as stated earlier, and some are too linear. A problem with "too linear" feeds is how some content can become less relevant when the feed has a fast pace (it's updating quickly). Good content might appear at the bottom of the feed because they may be mislabeled as unimportant if it is based on how many clicks/views it has, and some sources might be more recent so it might push the good content further down the feed.
+
+How do we distinguish which has more value? We don't want our app to follow a non-linear feed. We want our app to follow an improved linear structure.
+
 
 ## Tech
 
