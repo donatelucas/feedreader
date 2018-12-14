@@ -2,7 +2,8 @@
 
 A Loyola University Chicago project for COMP 330.
 
-// Insert Images later
+![Demo 01](https://github.com/donatelucas/feedreader/blob/master/Screenshots/01.png)
+![Demo 02](https://github.com/donatelucas/feedreader/blob/master/Screenshots/02.png)
 
 ## Purpose
 
