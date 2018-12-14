@@ -4,7 +4,7 @@ A Loyola University Chicago project for COMP 330.
 
 ![Demo 01](https://github.com/donatelucas/feedreader/blob/master/Screenshots/01.png =100x50)
 ![Demo 02](https://github.com/donatelucas/feedreader/blob/master/Screenshots/02.png =100x50)
-![Demo 03]<img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/01.png" width="100" height="50">
+![Demo 03]<img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/01.png" width="400" height="200">
 
 ## Purpose
 
