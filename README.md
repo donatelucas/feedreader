@@ -2,7 +2,7 @@
 
 A Loyola University Chicago project for COMP 330.
 
-<p float="left">
+<p float="center">
 <img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/01.png" width="300" height="600">
 <img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/02.png" width="300"
 height="600">
