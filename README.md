@@ -2,8 +2,8 @@
 
 A Loyola University Chicago project for COMP 330.
 
-![Demo 01]<img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/01.png" width="250" height="600">
-![Demo 02]<img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/02.png" width="250"
+<img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/01.png" width="300" height="600">
+<img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/02.png" width="300"
 height="600">
 
 ## Purpose
