@@ -2,9 +2,11 @@
 
 A Loyola University Chicago project for COMP 330.
 
+<p float="left">
 <img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/01.png" width="300" height="600">
 <img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/02.png" width="300"
 height="600">
+</p>
 
 ## Purpose
 
@@ -19,7 +21,7 @@ How do we distinguish which has more value? We don't want our app to follow a no
 
 ## Tech
 
-We used React Native to build our mobile app, and we used Android Studio to have access to an emulator.
+We used React Native to build our mobile app natively, and we used Android Studio or XCode to have access to an emulator.
 
 ## Getting Started
 
