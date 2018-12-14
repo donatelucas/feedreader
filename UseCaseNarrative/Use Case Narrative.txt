@@ -1,0 +1,17 @@
+## Use Case Narrative
+
+# 1 - User selects feeds that they want to use
+
+# 2 - Using insertFeed, the XML/RSS link is added to the user app database
+
+# 3 - System updates the user list of feeds to display with fetchFeeds
+
+# 4 - getDate updates user list that understand the inputs from feeds with PriorInsertedSearch
+
+# 5 - If User clicks on Bookmarks or Favorites on top a certain new:
+
+	# 5a - List of Bookmarks is updated
+
+	# 5b - List of Favorites is updated
+
+# 6 - When User pulls the interface on the main screen, making it scroll down, getFile reads the local file on the app with feeds, makeObjects with the structure, and display a list of updates with returnObjects
