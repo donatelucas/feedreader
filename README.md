@@ -44,11 +44,11 @@ This repository is our main repository for this app, but we have a demo of the p
 * Have a consistent UI and UX design, across all interfaces
 * Have a responsive design
 * Allow users to log-in and save information
-* Ability to collect and display the newsfeeds from real sources
+* Ability to collect and display the news feeds from real sources
 * Display the selected list of user feeds according to user preferences
 * Display sources by showing a preview of the sources
 * Sort feed by most recently updated source by default
-* Allow users to choose how to filer their feed, but always use linear dates for it
+* Allow users to choose how to filter their feed, but always use linear dates for it
 * Prior Inserted Search
 * Favorites
 * Bookmarks
