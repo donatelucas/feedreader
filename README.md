@@ -9,6 +9,8 @@ A Loyola University Chicago project for COMP 330.
 <img src="https://github.com/donatelucas/feedreader/blob/master/Screenshots/02.png" width="300" height="600">
 </p>
 
+Link: https://github.com/donatelucas/feedreaderdemo
+
 ## Purpose
 
 In the actual market, Facebook, YouTube, Instagram, alongside feed readers, have adopted the practice to use non-linear feeds. Their intention - seems to be - is to make users spend a few more minutes through their apps, making them consume more content, and subsequently, more ads.
