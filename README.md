@@ -39,8 +39,6 @@ After you have installed React Native, you must have access to an Android device
 
 Once you have React Native and Android Studio installed, you can refer to the React Native installation instructions (https://facebook.github.io/react-native/docs/getting-started) so you can connect React Native to Android Studio if you want to run the app through their Android emulator.
 
-This repository is our main repository for this app, but we have a demo of the project at https://github.com/donatelucas/feedreaderdemo.
-
 ## Requirements Complete (minimum of five)
 
 * Have a consistent UI and UX design, across all interfaces
